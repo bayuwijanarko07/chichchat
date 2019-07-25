@@ -12,7 +12,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_above="@+id/etNeme_room">
     </ListView>
@@ -36,7 +35,6 @@
         android:layout_height="31dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_gravity="right"
         android:layout_marginEnd="12dp"
         android:layout_marginBottom="7dp"
         android:background="@color/colorPrimary"
